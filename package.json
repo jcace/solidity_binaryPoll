@@ -1,0 +1,18 @@
+{
+  "name": "testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "FileReader": "^0.10.2",
+    "base64-img": "^1.0.3",
+    "bufferjs": "^3.0.1",
+    "express": "^4.16.2",
+    "filereader": "^0.10.3"
+  }
+}
